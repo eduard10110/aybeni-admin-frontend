@@ -1,5 +1,4 @@
 import { request } from "./request";
-import { serializeErrorMessage } from "./validationErrorHandler";
 const API = {};
 
 const REQ = async (

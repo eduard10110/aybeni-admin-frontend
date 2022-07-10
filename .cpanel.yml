@@ -1,0 +1,4 @@
+---
+deployment:
+tasks:
+  - export DEPLOYPATH=/home/eduard7771/public_html/admin/admin_frontend
